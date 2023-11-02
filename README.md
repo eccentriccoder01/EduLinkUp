@@ -1,7 +1,7 @@
 # RegistrationSystem
 
 ## Developed By 
-    Hassaan Raheem
+    Sagnik Chakraborty
 ## Programming Language
     Python
 ## Abstract
